@@ -1,3 +1,4 @@
+
 # 🧠 Internship Report – Generative Models for Data Augmentation
 
 🚀 **Organization:** CRNS  
@@ -38,10 +39,21 @@ The project evaluates multiple deep generative models to generate synthetic samp
 
 ## 📎 Download the Full Report
 
-📄 [**Click here to download the PDF report**](https://raw.githubusercontent.com/your-username/your-repo/main/Generative-Models-for-Data-Augmentation-Internship-Report%20(1).pdf)
+📄 [**Click here to download the PDF report**](https://raw.githubusercontent.com/oumaima221/generative-models/main/Generative-Models-for-Data-Augmentation-Internship-Report%20(1).pdf)
 
-> Replace `your-username` and `your-repo` in the link above with your actual GitHub username and repository name.
+> This PDF contains all architecture details, experiments, evaluations, and conclusions from the internship.
 
-Example:
-```markdown
-📄 [Download Report](https://raw.githubusercontent.com/oumaima221/generative-models-internship/main/Generative-Models-for-Data-Augmentation-Internship-Report%20(1).pdf)
+---
+
+## 📌 Key Highlights
+
+- ✅ Implemented and trained multiple GAN variants on benchmark datasets
+- ✅ Applied models to a noisy, real-world dataset (plastic waste)
+- ✅ Compared performance using visual quality and training stability
+- 🚧 Identified challenges with DDPMs on small datasets and proposed future improvements
+
+---
+
+## 🙏 Thank You
+
+Thank you for reading! Feel free to explore the report, and reach out for collaboration or feedback.
